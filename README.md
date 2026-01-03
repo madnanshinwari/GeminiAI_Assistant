@@ -39,12 +39,12 @@ GeminiAI_Assistant is an AI-powered chatbot built using **Google Gemini API** an
 ## 🧪 Demo Screenshots
 
 ### 💬 Chat Interface
-![Chat Interface](assets/demo1.png)
+![Chat Interface](assets/demo_1.PNG)
 
 ### ⚙️ AI Response Generation
-![AI Response](assets/demo2.png)
+![AI Response](assets/demo_2.PNG)
 
-> 📌 *Add your screenshots inside the `assets` folder and update image names accordingly.*
+
 
 ---
 
